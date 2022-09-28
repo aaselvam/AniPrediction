@@ -13,7 +13,7 @@ F - Terrible
 Below are the predictions that the AI made for many anime:
 
 3/3 [==============================] - 0s 2ms/step
-# SPRING ANIME
+# SPRING ANIME 2022
 Spy x Family IS RANK S
 
 Tate no Yuusha no Nariagari Season 2 IS RANK B
@@ -94,7 +94,7 @@ Chiikawa IS RANK F
 
 Mobile Suit Gundam: Iron-Blooded Orphans Special Edition IS RANK A
 
-# SUMMER ANIME
+# SUMMER ANIME 2022
 Hataraku Maou-sama! 2nd Season IS RANK A
 
 Kanojo, Okarishimasu 2nd Season IS RANK A
@@ -129,7 +129,7 @@ Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches IS RANK F
 
 Saikin Yatotta Maid ga Ayashii IS RANK F
 
-# FALL ANIME
+# FALL ANIME 2022
 Mob Psycho 100 III IS RANK S
 
 Fumetsu no Anata e 2nd Season IS RANK F
