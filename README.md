@@ -4,9 +4,9 @@ Uses tensorflow models and data from the Jikan API (https://jikan.moe/) to succe
 
 S - The Best
 
-A - Average
+A - Good
 
-B - Bad
+B - Average
 
 F - Terrible
 
