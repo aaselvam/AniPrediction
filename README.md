@@ -1,9 +1,13 @@
 # AniPrediction
  
 Uses tensorflow models and data from the Jikan API (https://jikan.moe/) to successfully predict how good future anime will be on a scale:
+
 S - The Best
+
 A - Average
-B - Below Average
+
+B - Bad
+
 F - Terrible
 
 Below are the predictions that the AI made for many anime:
